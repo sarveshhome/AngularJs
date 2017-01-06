@@ -16,8 +16,8 @@ AngularJS is a complete JavaScript-based open-source front-end web application f
 
 `npm install angular`
 
-`npm list -g --depth=0`
+`npm list --g --depth=0`
 
-`npm install -g typings`
+`npm install --g typings`
 
-`typings install dt~angular –save –global`
+`typings install dt~angular --save --global`
