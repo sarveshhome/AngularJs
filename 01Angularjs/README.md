@@ -1,5 +1,5 @@
-`npm install'
-'npm init'
+`npm install`
+`npm init`
 ##create jsconfig.json
 `npm install angular`
 `npm list -g --depth=0`
