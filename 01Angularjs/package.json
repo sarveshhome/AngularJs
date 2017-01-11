@@ -1,5 +1,5 @@
 {
-  "name": "angularsitesh",
+  "name": "angularfirst",
   "version": "1.0.1",
   "description": "angularjs",
   "main": "index.html",
@@ -15,6 +15,6 @@
   "keywords": [
     "angularjs"
   ],
-  "author": "sitesh@gmail.com",
+  "author": "sarvesh.mca@hotmail.com",
   "license": "ISC"
 }
